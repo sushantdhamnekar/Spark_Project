@@ -1,6 +1,6 @@
 ## Spark_Project
-Spark Project
-
+Spark Project using python2
+sudo pip2 install pyspark
 Installations: https://medium.freecodecamp.org/how-to-set-up-pyspark-for-your-jupyter-notebook-7399dd3cb389
 
 Path setups:
